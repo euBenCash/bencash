@@ -1,15 +1,9 @@
 /**
-* Template Name: Impact
-* Updated: Jul 27 2023 with Bootstrap v5.3.1
-* Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+  * PageName: BenCash
+  * Updated: Sep 05 2023 with Bootstrap v5.3.1
+  * Dev: https://ThiagoNET.com
 */
 
-/*--------------------------------------------------------------
-# Set main reusable colors and fonts using CSS variables
-# Learn more about CSS variables at https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
---------------------------------------------------------------*/
 /* Fonts */
 :root {
   --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -1199,7 +1193,7 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: linear-gradient(45deg, rgba(14, 58, 16, 0.9) 0%, rgba(21, 53, 21, 0.9) 100%), url("../img/principal-bg.jpg") center center no-repeat;
+  background: linear-gradient(45deg, rgba(14, 58, 16, 0.9) 0%, rgba(21, 53, 21, 0.9) 100%),;
   background-size: cover;
 }
 
