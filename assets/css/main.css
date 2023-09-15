@@ -770,9 +770,13 @@ section {
 }
 
 .hero h2 {
-  font-size: 48px;
+  font-size: 50px;
   font-weight: 700;
   margin-bottom: 20px;
+  color: #fff;
+}
+
+.hero h5 {
   color: #fff;
 }
 
@@ -825,6 +829,12 @@ section {
   .hero h2 {
     font-size: 36px;
   }
+  .hero h5 {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #fff;
+}
 
   .hero .btn-get-started,
   .hero .btn-watch-video {
